@@ -8,7 +8,7 @@ We will configure Network Bridging by few steps :
 <br />
 2 - Import this ISO file to your VM
 <br />
-3 - Excute this command : mkdir /OVH_NB mount -t auto -r /dev/cdrom /OVH_NB && cd /OVH_NB && ./network.sh
+3 - Excute this command : mkdir /OVH_NB && mount -t auto -r /dev/cdrom /OVH_NB && cd /OVH_NB && ./network.sh
 <br />
 4 - The script will ask you some questions such as 
 <br />
